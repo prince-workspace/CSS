@@ -1,0 +1,22 @@
+p{
+    text-align: center;
+    /* font-family: cursive; */
+}
+
+h1{
+    text-align: center;
+    text-decoration: green wavy underline;
+}
+
+a{
+    text-decoration: none;
+}
+#font{
+    text-transform: capitalize;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
